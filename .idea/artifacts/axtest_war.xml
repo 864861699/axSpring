@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="axtest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="axtest-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="axtest:war exploded" />
+    </root>
+  </artifact>
+</component>
